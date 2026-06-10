@@ -1,0 +1,12 @@
+# Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env
+
+# OS specific
+.DS_Store
+Thumbs.db
